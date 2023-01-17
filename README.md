@@ -7,14 +7,14 @@ Sadržaj istog je takodje ubačen u odgovarajuće orginalne PDF fajlove vežbi u
 
 Opisani su neobjašnjeni pojmovi koji bi mogli dovesti do konfuzije, kao i kod iz radnih datoteka svake od vežbi.
 
-### Autori
+#### Autori
 Nikola Dragomirović </br>
 Miloš Jovanović
 
 Fakultet Tehničkih Nauka u Novom Sadu </br>
 Računarstvo i Automatika (Računarske Tehnike i Računarska Komunikacija)
 
-# English
+## English
 
 The goal of the task was to test the existing code and expand the existing documentation for exercises 5, 6, and 7 of the "Real-Time Operating Systems" course. 
 
@@ -23,7 +23,7 @@ The contents of the above mentioned file were also inserted into the correspondi
 
 Unclear concepts that could lead to confusion, as well as the code in the working directories for each exercise were described.
 
-### Authors
+#### Authors
 
 Nikola Dragomirović </br>
 Miloš Jovanović
