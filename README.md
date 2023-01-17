@@ -23,7 +23,7 @@ The contents of the above mentioned file were also inserted into the correspondi
 
 Unclear concepts that could lead to confusion, as well as the code in the working directories for each exercise were described.
 
-###Authors
+### Authors
 
 Nikola Dragomirović </br>
 Miloš Jovanović
