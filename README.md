@@ -21,7 +21,7 @@ The goal of the task was to test the existing code and expand the existing docum
 The documentation was expanded in a separate PDF file "OSuRV-Better-Documentation.pdf". </br>
 The contents of the above mentioned file were also inserted into the corresponding original PDF files of the exercises in the form of comments.
 
-Unclear concepts that could lead to confusion were described, as well as the code in the working directories for each exercise.
+Unclear concepts that could lead to confusion, as well as the code in the working directories for each exercise were described.
 
 ###Authors
 
