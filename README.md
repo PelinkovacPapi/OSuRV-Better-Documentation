@@ -3,7 +3,7 @@
 Cilj zadatka je bio testiranje postojećeg koda i proširenje postojeće dokumentacije za vežbe 5, 6 i 7 predmeta "Operativni Sistemi za rad u Realnom Vremenu".
 
 Dokumentacija je proširena u posebnom PDF fajlu "OSuRV-Better-Documentation.pdf". </br>
-Sadržaj istog takodje ubačen u odgovarajuće orginalne PDF fajlove vežbi u vidu komentara.
+Sadržaj istog je takodje ubačen u odgovarajuće orginalne PDF fajlove vežbi u vidu komentara.
 
 Opisani su neobjašnjeni pojmovi koji bi mogli dovesti do konfuzije, kao i kod iz radnih datoteka svake od vežbi.
 
