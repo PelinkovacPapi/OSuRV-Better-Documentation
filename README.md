@@ -7,7 +7,7 @@ Sadržaj istog je takodje ubačen u odgovarajuće orginalne PDF fajlove vežbi u
 
 Opisani su neobjašnjeni pojmovi koji bi mogli dovesti do konfuzije, kao i kod iz radnih datoteka svake od vežbi.
 
-##### Autori </br>
+**Autori** </br>
 Nikola Dragomirović </br>
 Miloš Jovanović
 
@@ -23,7 +23,7 @@ The contents of the above mentioned file were also inserted into the correspondi
 
 Unclear concepts that could lead to confusion, as well as the code in the working directories for each exercise were described.
 
-##### Authors </br>
+**Authors** </br>
 Nikola Dragomirović </br>
 Miloš Jovanović
 
