@@ -8,5 +8,6 @@ Opisani su neobjašnjeni pojmovi koji bi mogli dovesti do konfuzije, kao i kod i
 
 ## Autori
 Nikola Dragomirović
+
 Miloš Jovanović
 
