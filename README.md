@@ -1,4 +1,4 @@
-# OSuRV-Better-Documentation
+# OSuRV Better Documentation
 
 Cilj zadatka je bio proširenje postojeće dokumentacije za vežbe 5, 6 i 7 predmeta Operativni Sistemi za rad u Realnom Vremenu i testiranje postojećeg koda.
 
