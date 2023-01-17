@@ -13,3 +13,12 @@ Miloš Jovanović
 
 Fakultet Tehničkih Nauka u Novom Sadu </br>
 Računarstvo i Automatika (Računarske Tehnike i Računarska Komunikacija)
+
+# English
+
+The goal of the task was to test the existing code and expand the existing documentation for exercises 5, 6, and 7 of the "Real-Time Operating Systems" course. 
+
+The documentation was expanded in a separate PDF file "OSuRV-Better-Documentation.pdf". </br>
+The contents of the above mentioned file were also inserted into the corresponding original PDF files of the exercises in the form of comments.
+
+Unclear concepts that could lead to confusion were described, as well as the code in the working directories for each exercise.
