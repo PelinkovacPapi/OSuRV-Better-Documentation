@@ -7,7 +7,7 @@ Sadržaj istog je takodje ubačen u odgovarajuće orginalne PDF fajlove vežbi u
 
 Opisani su neobjašnjeni pojmovi koji bi mogli dovesti do konfuzije, kao i kod iz radnih datoteka svake od vežbi.
 
-## Autori
+### Autori
 Nikola Dragomirović </br>
 Miloš Jovanović
 
@@ -22,3 +22,11 @@ The documentation was expanded in a separate PDF file "OSuRV-Better-Documentatio
 The contents of the above mentioned file were also inserted into the corresponding original PDF files of the exercises in the form of comments.
 
 Unclear concepts that could lead to confusion were described, as well as the code in the working directories for each exercise.
+
+###Authors
+
+Nikola Dragomirović </br>
+Miloš Jovanović
+
+Faculty of Technical Sciences in Novi Sad </br>
+Computing and Automatics (Computer Technique and Computer Communication)
