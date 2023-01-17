@@ -6,7 +6,7 @@ Dokumentacija je proširena u posebnom PDF fajlu "OSuRV-Better-Documentation", d
 
 Opisani su neobjašnjeni pojmovi koji bi mogli dovesti do konfuzije, kao i kod iz radnih datoteka svake od vežbi.
 
-#Autori
+#### Autori
 Nikola Dragomirović
 Miloš Jovanović
 
