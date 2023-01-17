@@ -11,3 +11,5 @@ Nikola Dragomirović
 
 Miloš Jovanović
 
+Fakultet Tehničkih Nauka u Novom Sadu </br>
+Računarstvo i Automatika (Računarske Tehnike i Računarska Komunikacija)
